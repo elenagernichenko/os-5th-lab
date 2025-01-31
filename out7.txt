@@ -1,0 +1,6 @@
+/home/spectreofoblivion/Документы/biblos/OpenXLSX/Notes/TBDs.txt, TBDs.txt, 1067
+/home/spectreofoblivion/Документы/biblos/OpenXLSX/.git/objects/94/ef1c36d9ffa6b464cc23059236be943b3228c4, ef1c36d9ffa6b464cc23059236be943b3228c4, 1036
+/home/spectreofoblivion/Документы/biblos/OpenXLSX/Examples/external/nowide/include/nowide/windows.hpp, windows.hpp, 1058
+/home/spectreofoblivion/Документы/biblos/OpenXLSX/OpenXLSX/external/nowide/nowide/windows.hpp, windows.hpp, 1200
+/home/spectreofoblivion/Документы/biblos/OpenXLSX/Benchmarks/CMakeLists.txt, CMakeLists.txt, 1143
+/home/spectreofoblivion/Документы/repos/OpenMP-examples/matrix_multiplication/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-eec3c6f8ee9fa233d5e3.json, toolchains-v1-eec3c6f8ee9fa233d5e3.json, 1105
